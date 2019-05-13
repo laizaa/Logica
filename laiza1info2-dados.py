@@ -1,4 +1,3 @@
- 
 from random import randint
 dado1=randint(1,6)
 print("Dado 1=",dado1)
